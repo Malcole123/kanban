@@ -1,0 +1,28 @@
+:root{
+    --app-prim-background:#050609;
+    --app-text-xs:0.8333em;
+    --app-text-sm:0.875em;
+    --app-text-base:1em;
+    --app-text-lg:1.25em;
+    --app-text-xl:1.5em;
+    --app-text-2xl:2.25em;
+    --app-text-3xl:2.5em;
+    --app-text-4xl:4em;
+    --app-stndrd-radius:4px;
+}
+
+
+
+.app-main-container{
+    width:100%;
+    padding:2% 8%;
+    background:var(--app-prim-background);
+    min-height:100vh;
+    width:100%;
+}
+
+
+.app-prim-text-color{
+    color:#fff
+}
+
